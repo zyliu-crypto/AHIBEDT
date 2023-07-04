@@ -15,4 +15,4 @@ Required Library
 
 Run
 ===========
-python3 (HIBE/Ours/OTS).py
+python3 ./(HIBE/Ours/OTS).py
